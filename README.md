@@ -31,8 +31,10 @@ Navigate to the project directory:
 cd donation-system
 
 Install dependencies:
-
 npm install
-Run the application:
 
+Run the application:
 npm start
+
+#SHISHAGRA NIGAM THE DEVELOPER OF THE APP
+L
