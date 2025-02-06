@@ -30,3 +30,9 @@ git clone https://github.com/your-username/donation-system.git
 Navigate to the project directory:
 cd donation-system
 
+Install dependencies:
+
+npm install
+Run the application:
+
+npm start
